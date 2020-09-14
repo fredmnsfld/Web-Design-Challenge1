@@ -12,4 +12,10 @@
   padding-right: 2px
 }
 
-
+.reg {
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem;
+  width: 420px;
+  height: 420px;
+  padding: 10px;
+}
